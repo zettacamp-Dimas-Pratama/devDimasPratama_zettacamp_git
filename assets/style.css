@@ -4,3 +4,6 @@ body {
   align-items: center;
   height: 100vh;
 }
+.red-color {
+  color: red;
+}
